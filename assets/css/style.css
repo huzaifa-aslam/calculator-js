@@ -108,7 +108,6 @@ div.equal {
     color: #FFF;
     background-color: #4d90fe;
     transition: all .2s ease-in-out;
-    height: 100vh;
 }
 
 div.equal:hover {
